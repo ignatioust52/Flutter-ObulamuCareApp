@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "526209346408",
+    "project_id": "obulamu-3c320",
+    "storage_bucket": "obulamu-3c320.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526209346408:android:0e3c6a9c6789bd74a684dd",
+        "android_client_info": {
+          "package_name": "com.example.obulamu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWlRVHAsoyLQYXVxff7KliZlDlGRSODik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
